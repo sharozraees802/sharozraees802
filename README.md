@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/sharozraees802/sharozraees802/master/statics/image/Sheroz.png"/>
- <hr></hr>
+
 <p>👦 Welcome to my Git Repo </br> I'm Muhammad Sheroz Raees Khan, MERNStack Developer, FullStack Developer & DotNet Developer <img src="https://image.freepik.com/free-photo/flag-pakistan_1401-192.jpg" width="13"/> <b>karachi, Pakistan.</b>
 <a
   title="Like Ahsan's work? Buy him a coffee"
@@ -25,6 +24,8 @@
   <img alt="Typescript" src="https://img.shields.io/badge/-TypeScript-F05032?style=flat-square&logo=typescript&logoColor=white&color=007ACC" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F05032?style=flat-square&logo=javascript&logoColor=white&color=f7df1e" />
 </p>
+<img src="https://raw.githubusercontent.com/sharozraees802/sharozraees802/master/statics/image/Sheroz.png"/>
+ <hr></hr>
 <h3>Find & contact me</h3>
 <p><a href="https://github.com/sharozraees802" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://medium.com/@sharozraees802" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://twitter.com/sharozkhan802" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/sharoz-khan-8a553a191/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:sharozkhan802@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.facebook.com/sharoz.khan.589/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="https://www.instagram.com/muhammadsheroz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="https://www.tiktok.com/@sharozraees802"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
 </p>
