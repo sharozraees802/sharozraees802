@@ -1,4 +1,10 @@
 <p>👦 Welcome to my Git Repo </br> I'm Muhammad Sheroz Raees Khan, MERNStack Developer, FullStack Developer & DotNet Developer <img src="https://image.freepik.com/free-photo/flag-pakistan_1401-192.jpg" width="13"/> <b>karachi, Pakistan.</b>
+<a
+  title="Like Ahsan's work? Buy him a coffee"
+  class="bmac"
+  href="https://www.buymeacoffee.com/sharozraees802">
+<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=muhd.ahsanayaz&button_colour=BD5FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" />
+</a>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
