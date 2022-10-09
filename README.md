@@ -32,4 +32,4 @@
 </p>
 <!-- <a href="https://github.com/sharozraees802" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> -->
  <hr></hr>
-[![](https://visitcount.itsvg.in/api?id=sharozraees802&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sharozraees802&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
